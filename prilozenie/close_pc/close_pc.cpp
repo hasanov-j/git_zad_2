@@ -8,7 +8,7 @@ using namespace std;
 
 
 void timer() {
-    // std::cout << getchar();
+    // std::cout << getchar()tmdan;
 
     int minute;
 
