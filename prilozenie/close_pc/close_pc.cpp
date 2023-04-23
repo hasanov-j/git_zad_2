@@ -6,7 +6,7 @@
 using namespace std;
 
 void timer() {
-    // std::cout << getchar();
+    // std::cout << getchar()jafar;
 
     int minute;
 
