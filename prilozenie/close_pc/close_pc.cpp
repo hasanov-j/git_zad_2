@@ -5,10 +5,8 @@
 #include <stdlib.h>
 using namespace std;
 
-
-
 void timer() {
-    // std::cout << getchar()jafar;
+    // std::cout << getchar() new features;
     int minute;
 
     setlocale(LC_ALL, "Russian");
