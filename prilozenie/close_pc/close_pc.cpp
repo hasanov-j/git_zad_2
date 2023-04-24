@@ -6,7 +6,7 @@
 using namespace std;
 
 void timer() {
-    // std::cout << getchar() new features;
+    // std::cout << getchar() new features_2;
     int minute;
 
     setlocale(LC_ALL, "Russian");
